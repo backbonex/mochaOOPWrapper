@@ -96,3 +96,4 @@ define([
 });
 
 ```
+You can also use `before`, `after`, `beforeEach`, `afterEach` as well as `it` and `describe` above
