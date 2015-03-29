@@ -1,0 +1,27 @@
+{
+  "name": "mochaOOPWrapper",
+  "version": "1.0.0",
+  "homepage": "https://github.com/backbonex/mochaOOPWrapper",
+  "authors": [
+    "jifeon <balakirev.andrey@gmail.com>",
+    "apsavin <box.for.postman@gmail.com>",
+    "km256 <keyman256@gmail.com>",
+    "heymexa <heymexa@gmail.com>"
+  ],
+  "description": "OOP wrapper for mocha test framework",
+  "main": "lib/mochaOOPWrapper.js",
+  "keywords": [
+    "mocha",
+    "OOP",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "mocha": "~2.0.1",
+    "requirejs": "~2.1.15"
+  }
+}
