@@ -5,6 +5,11 @@ OOP wrapper for mocha test framework
 ```bash
 $ bower install mocha-oop-wrapper --save
 ```
+or using `npm`
+```bash
+$ npm install mocha-oop-wrapper --save
+```
+
 
 ## Usage
 Specify path to [mocha](http://mochajs.org/) in your [requirejs](http://requirejs.org/) [config](http://requirejs.org/docs/api.html#config-shim) like this:
